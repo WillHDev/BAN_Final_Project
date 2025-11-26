@@ -7,3 +7,7 @@ seaborn
 xgboost
 catboost
 lightgbm
+seaborn
+ipywidgets
+conda-forge 
+ydata-profiling
